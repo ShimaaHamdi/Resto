@@ -585,7 +585,7 @@ header .icons #menu-bars {
     color: var(--green);
 }
 
-.loader-container {
+/* .loader-container {
     position: fixed;
     top: 0;
     left: 0;
@@ -607,7 +607,7 @@ header .icons #menu-bars {
     top: -110%;
     opacity: 0;
 }
-
+ */
 
 
 
